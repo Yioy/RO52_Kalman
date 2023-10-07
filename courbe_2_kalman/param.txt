@@ -1,0 +1,2 @@
+Méthode 2
+kalman = Kalman((math.pi*10/180), 5, 0.9, 0, 5)
